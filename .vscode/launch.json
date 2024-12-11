@@ -3,15 +3,15 @@
     "configurations": [
         {
             "type": "node",
-            "name": "Day 10 part 1",
+            "name": "part1",
             "request": "launch",
-            "program": "${workspaceFolder}/day10/part1.js"
+            "program": "${workspaceFolder}/day11/part1.js",
         },
         {
             "type": "node",
-            "name": "Day 10 part 2",
+            "name": "part2",
             "request": "launch",
-            "program": "${workspaceFolder}/day10/part2.js"
+            "program": "${workspaceFolder}/day11/part2.js",
         }
     ]
 }
